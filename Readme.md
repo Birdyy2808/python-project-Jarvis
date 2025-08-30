@@ -29,25 +29,25 @@ A Python-based virtual voice assistant that can open websites, play music, fetch
     🤖 OpenAI
 
 ⚙️ CONFIGURATION:
-Set your OpenAI API key:
+    Set your OpenAI API key:
 
-For Windows (PowerShell):
-Command: $Env:OPENAI_API_KEY="your_api_key_here"
+    For Windows (PowerShell):
+    Command: $Env:OPENAI_API_KEY="your_api_key_here"
 
-For macOS/Linux:
-Command: export OPENAI_API_KEY="your_api_key_here"
+    For macOS/Linux:
+    Command: export OPENAI_API_KEY="your_api_key_here"
 
 ▶️ RUN THE ASSISTANT:
-Command: python main.py
+    Command: python main.py
 
-Say "Jarvis" to wake the assistant, then give a command such as:
+    Say "Jarvis" to wake the assistant, then give a command such as:
 
-open google
+    open google
 
-open github
+    open github
 
-play <song-name>
+    play <song-name>
 
-news
+    news
 
-exit (to stop Jarvis)
+    exit (to stop Jarvis)
